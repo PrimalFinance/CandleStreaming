@@ -4,9 +4,9 @@
 
 ### To Start Streaming
 
-- run the command: "python start_streaming TICKER-MARKET"
+- run the command: "python start_streaming.py TICKER-MARKET"
 
-  **Example** >>> python start_streaming BTC-USD
+  **Example** >>> python start_streaming.py BTC-USD
 
 #### Setup
 
